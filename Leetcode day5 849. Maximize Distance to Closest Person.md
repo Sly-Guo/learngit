@@ -1,10 +1,10 @@
-#Leetcode day5 849. Maximize Distance to Closest Person
+# Leetcode day5 849. Maximize Distance to Closest Person
 
 
 
 
 ---
-##Description
+## Description
 In a row of seats, 1 represents a person sitting in that seat, and 0 represents that the seat is empty. 
 
 There is at least one empty seat, and at least one person sitting.
@@ -18,7 +18,7 @@ Return that maximum distance to closest person.
 > Let's just call this what it is, this has nothing to do with picking seats, this is the algorithm for picking a urinal in a public bathroom :D
 
 ---
-##python3
+## python3
 
 ```
 class Solution:
@@ -78,7 +78,7 @@ class Solution:
 
 ```
 ---
-##C++
+## C++
 
 * This C++ approach just follows the basic logic idea.
 *
